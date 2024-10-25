@@ -1,0 +1,60 @@
+body {
+    background-color: #1e1e2f; 
+  }
+  
+  h1 {
+    color: #fff; 
+  }
+  
+  .custom-input {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.6rem;
+    background-color: #2a2a3c;
+    color: #fff;
+  }
+  
+  .custom-add-btn {
+    background-color: #6c63ff; 
+    color: #fff;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 0.5rem;
+  }
+  
+  .custom-add-btn:hover {
+    background-color: #5548c2;
+  }
+  
+  .custom-todo-item {
+    background-color: #2a2a3c;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.8rem;
+  }
+  
+  .custom-delete-btn {
+    background-color: #ff4b4b;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.4rem 0.8rem;
+  }
+  
+  .custom-delete-btn:hover {
+    background-color: #d43838;
+  }
+  
+  .custom-edit-btn {
+    background-color: #ffa500; 
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.4rem 0.8rem;
+  }
+  
+  .custom-edit-btn:hover {
+    background-color: #e69500; 
+  }
+  
